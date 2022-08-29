@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="tg Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asharaev32&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
