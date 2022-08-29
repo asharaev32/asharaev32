@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://hh.ru/applicant/resumes/short?resume=14c61d81ff0b1d04d10039ed1f304366337a6c" target="_blank">Anton</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data Analyst from Russia 🇷🇺</h3>
 
-<!--
-**asharaev32/asharaev32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
