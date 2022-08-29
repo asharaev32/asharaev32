@@ -16,12 +16,22 @@
   <img src="https://komarev.com/ghpvc/?username=asharaev32&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/use-Python-green" />
+  <img src="https://img.shields.io/badge/use-PostgreSQL-orange" />
+  <img src="https://img.shields.io/badge/use-Tableau-blue" />  
+</div>
+
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/use-pandas-yellow" />
+  <img src="https://img.shields.io/badge/use-seaborn-yellow" />
+  <img src="https://img.shields.io/badge/use-matplotlib-yellow" />
+  <img src="https://img.shields.io/badge/use-numpy-yellow" />
+  <img src="https://img.shields.io/badge/use-Pandas-yellow" />
+  <img src="https://img.shields.io/badge/know-sklearn-blue" />
+</div>
+
+
+Please, find my projects in repository named "Portfolio". I am looking forward to answer your questions. Please, do not be hesitated to contact me any time 
+
+- 📫 How to reach me: tg: asharaev32
