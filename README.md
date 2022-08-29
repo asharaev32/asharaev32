@@ -1,6 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100"/>
+</div>
+
+
 <h1 align="center">Hi there, I'm <a href="https://hh.ru/applicant/resumes/short?resume=14c61d81ff0b1d04d10039ed1f304366337a6c" target="_blank">Anton</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Analyst from Russia 🇷🇺</h3>
+<h3 align="center">Data Analyst from Russia</h3>
 
 
 - 🔭 I’m currently working on ...
