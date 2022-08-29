@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
 </div>
 
 
@@ -7,6 +7,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data Analyst from Russia</h3>
 
+<div id="badges" align="center">
+  <a href="https://t.me/asharaev32">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="tg Badge"/>
+  </a>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
