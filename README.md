@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/use-Python-green" />
   <img src="https://img.shields.io/badge/use-PostgreSQL-orange" />
   <img src="https://img.shields.io/badge/use-Tableau-blue" />  
-   <img src="https://img.shields.io/badge/USE-A%2FB%20--%20tests%20-brightgreen" />   
+   <img src="https://img.shields.io/badge/use-A%2FB%20--%20tests%20-brightgreen" />   
 </div>
 
 <div id="header" align="center">
