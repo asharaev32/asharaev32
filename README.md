@@ -33,6 +33,6 @@
 </div>
 
 
-Please, find my projects in repository named "asharaev32_portfolio ". I am looking forward to answering your questions. Please, do not be hesitated to contact me any time 
+Please, find my projects in repository named "asharaev32_portfolio". I am looking forward to answering your questions. Please, do not be hesitated to contact me any time 
 
 - 📫 How to reach me: tg: asharaev32
